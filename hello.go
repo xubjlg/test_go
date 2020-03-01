@@ -12,13 +12,14 @@ var (
 
 func main() {
 
-	//main1()
+	//print
+	main1()
 
 	//测试 作用域 范围
-	//main2()
+	main2()
 
 
-	//测试 全局变量 
+	//测试 全局变量
 	main3()
 	ffmt.Print(b)
 
